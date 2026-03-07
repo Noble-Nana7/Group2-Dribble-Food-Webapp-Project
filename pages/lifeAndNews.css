@@ -1,0 +1,12 @@
+.content{
+    background-image: url(../pages/images/african\ dishes.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: wheat;
+
+}
