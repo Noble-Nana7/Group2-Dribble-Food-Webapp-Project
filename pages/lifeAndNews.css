@@ -7,6 +7,12 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    color: wheat;
+    padding: 30px;
 
+    & .wrapper{
+        background-color: white;
+        width: 30vw;
+        height: 40vh;
+        border-radius: 10px;
+    }
 }
